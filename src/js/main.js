@@ -1,7 +1,5 @@
-//import './scss/style.scss'
-
-const dotenv = require('dotenv');
-dotenv.config();
+import './../scss/style.scss';
+require('bootstrap')
 
 console.log('print js file');
 
